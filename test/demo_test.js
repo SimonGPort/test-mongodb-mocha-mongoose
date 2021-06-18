@@ -4,7 +4,7 @@ const assert=require('assert');
 describe('some demo tests',function(){
 
     //create tests
-    it('adds two numbers together',function(){
+    it('function for x2 multiplication',function(){
 let questions=[2,5,8]
 let aswers=[4,10,16]
 
