@@ -1,7 +1,7 @@
 let express = require('express')
 let app = express()
 let route = express.Router()
-var connectionMongoDB = require('./test/connection.js');
+var connectionMongoDB = require('./connection.js');
 
 
 
